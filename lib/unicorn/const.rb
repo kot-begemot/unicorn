@@ -18,4 +18,4 @@ module Unicorn::Const # :nodoc:
   # value of client_body_buffer_size.
   MAX_BODY = 1024 * 112
 end
-require_relative 'version'
+# require_relative 'version'
